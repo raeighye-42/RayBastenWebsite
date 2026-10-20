@@ -1,0 +1,46 @@
+/*This stylesheet is to reset all browser defaults*/
+:root {
+    font-size: 16px;
+}
+
+/*Structural elements*/
+article, aside, footer, header, main, nav, section {
+    display: block;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*Typographic styles*/
+article, aside, blockquote, body, cite, div, dl, dt, dd, em, footer, h1, h2, h3, h4, h5, h6, header, html, img, li, main, nav, ol, p, section, span, ul {
+    background: transparent;
+    font-size: 100%; /*<-- Sets font size equal to that of the parent*/
+    vertical-align: baseline;
+    font-weight: normal;
+}
+
+/*nav lists*/
+nav li {
+    list-style-type: none;
+    list-style-image: none;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+footer li {
+    list-style-type: none;
+    list-style-image: none;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+/*Line height*/
+body {
+    line-height: 1;
+}
