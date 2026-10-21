@@ -21,3 +21,7 @@ This is the source code for my website. The site is live on [Neocities](https://
 - Edit header image to tile better
 - Make shadows seperate from social buttons (so they don't grow with the buttons on hover to look more like the buttons are actually lifting up)
 - Scale paper texture on background to look better on mobile
+- Try different methods of scaling pixel art images ("crisp edges" is causing pixels to jitter a bit when resizing)
+- Customize Not Found page
+- Replace unicode arrow with external link image file
+- Learn to make vector images
